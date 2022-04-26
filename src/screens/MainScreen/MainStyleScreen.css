@@ -1,0 +1,19 @@
+.mainContainer{
+    background-color: rgb(252, 253, 253);
+    
+    height: 100%;
+   
+    width: 100%;
+    position: absolute;
+}
+.wrapper{
+    display: flex;
+    flex: 1;
+    flex-direction: row-reverse;
+    height: 85%;
+}
+.box{
+    display: flex;
+    height: 100%;
+    width: 85%;
+}
